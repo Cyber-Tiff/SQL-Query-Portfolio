@@ -8,7 +8,6 @@ This portfolio contains basic to intermediate SQL queries focusing on fraud anal
 - **Fraudulent Transactions by Type**: Shows common fraud patterns.
 
 ## Tools Used:
-- AI tools (like ChatGPT) for drafting and refining queries.
 - Sample or dummy datasets to simulate real-world scenarios.
 
 ## Notes:
