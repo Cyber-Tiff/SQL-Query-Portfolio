@@ -23,6 +23,10 @@ Calculates the average time it takes to resolve fraud cases.
 Counts fraudulent transactions by type (e.g. Stolen Card, Account Takeover).  
 **Why It’s Important:** Identifies common fraud patterns that can inform prevention strategies.
 
+### 4️⃣ [Top 3 Customers by Total Spending](./Query4_Top3CustomersBySpending.sql)
+Identifies the top 3 customers based on total spending.
+
+
 ---
 
 ## 🛠️ Tools & Skills Demonstrated
